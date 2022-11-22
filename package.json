@@ -1,0 +1,15 @@
+{
+  "name": "project_notebook",
+  "productName": "project_notebook",
+  "description": "to make notes of articles",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "dec10",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^18.0.3"
+  }
+}
