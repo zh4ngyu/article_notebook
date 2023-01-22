@@ -1,6 +1,6 @@
 {
-    "article_doi": "C:/Users/dec10/OneDrive - connect.hku.hk/files/python/project_article_database/article_database/",
-    "article_text": "C:/Users/dec10/OneDrive - connect.hku.hk/files/python/project_article_database/article_database_text/",
-    "ref_list": "C:/Users/dec10/OneDrive - connect.hku.hk/files/python/project_article_database/ref_list/",
-    "note": "C:/Users/dec10/OneDrive - connect.hku.hk/files/python/project_article_database/comment/"
+    "article_doi": "C:/project_article_database/article_database/",
+    "article_text": "C:/project_article_database/article_database_text/",
+    "ref_list": "C:/project_article_database/ref_list/",
+    "note": "C:/project_article_database/comment/"
 }
